@@ -9,6 +9,4 @@ This project demonstrates the use of heaps in Python using the `heapq` module. H
 - **Heappush**: Add a new element to the heap.
 - **Heappop**: Remove and return the smallest element from the heap.
 - **Heapreplace**: Replace the smallest element with a new value and return the old smallest element.
-- **Nsmallest and Nlargest**: Retrieve the n smallest or n largest elements from the heap.
-
-
+- **nsmallest and nlargest**: Retrieve the n smallest or n largest elements from the heap.
